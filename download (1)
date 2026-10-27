@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+outputs/*.csv
+outputs/*.json
